@@ -2,7 +2,7 @@ outputs
 .vscode
 .svn
 ngbase.egg-info
-
+.DS_Store
 ###################
 # PYTHON DEFAULTS #
 ###################
