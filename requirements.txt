@@ -1,0 +1,10 @@
+dm-haiku
+jaxopt
+optax
+matplotlib
+numpy
+scikit_learn
+scipy
+tqdm
+pandas
+submitit
