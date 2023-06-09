@@ -42,7 +42,6 @@ class Problem:
     ics: List[List[Callable]]
 
     omega_init: jnp.ndarray
-
     omega: jnp.ndarray
     rhsides: List[Callable]
     name: str = ''

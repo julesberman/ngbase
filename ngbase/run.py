@@ -258,7 +258,6 @@ def get_parser():
     ####################
     # ARGS FOR OPT_DIS #
     ####################
-
     parser.add_argument("--scheme", help="name of time integration scheme", type=str, default='rk4')
     parser.add_argument(
         "--sub_params", help="subset of parameters to update, if -1 set to total params", type=int, default=-1)
